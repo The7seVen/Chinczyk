@@ -1,0 +1,30 @@
+{
+  "name": "serwer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "engines": {
+    "node": "12.16.3"
+  },
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dziwuj/Chinczyk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dziwuj/Chinczyk/issues"
+  },
+  "homepage": "https://github.com/dziwuj/Chinczyk#readme",
+  "devDependencies": {},
+  "description": ""
+}
